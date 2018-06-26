@@ -6,7 +6,7 @@
   "dependencies": {
     "bcrypt-nodejs": "*",
     "consolidate": "*",
-    "express": "3.x",
+    "express": "4.16.0",
     "http-proxy": "1.x",
     "mustache": "*",
     "mv": "^2.0.3",
